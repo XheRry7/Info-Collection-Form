@@ -1,0 +1,21 @@
+.main {
+  height: auto;
+  width: 100%;
+  background: rgb(34, 193, 195);
+  background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(45, 94, 253, 0.742734593837535) 67%);
+
+}
+
+.main h1 {
+  text-align: center;
+  color: white;
+}
+
+.container {
+  height: auto;
+  width: 700px;
+  background-color: white;
+  margin: 0 auto;
+  padding: 30px;
+  border-radius: 20px;
+}
